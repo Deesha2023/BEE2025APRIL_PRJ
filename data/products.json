@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Matte Lipstick",
+        "price": 12.99,
+        "description": "Long-lasting matte finish lipstick",
+        "image": "lipstick.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Foundation",
+        "price": 24.99,
+        "description": "Full coverage liquid foundation",
+        "image": "foundation.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mascara",
+        "price": 9.99,
+        "description": "Volumizing and lengthening mascara",
+        "image": "mascara.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Eyeshadow Palette",
+        "price": 29.99,
+        "description": "12-shade professional eyeshadow palette",
+        "image": "eyeshadow.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Blush",
+        "price": 14.99,
+        "description": "Natural-looking powder blush",
+        "image": "blush.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Makeup Brushes",
+        "price": 19.99,
+        "description": "Professional 5-piece brush set",
+        "image": "brushes.jpg"
+    }
+]

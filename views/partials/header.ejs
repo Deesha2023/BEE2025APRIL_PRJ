@@ -1,0 +1,27 @@
+<header>
+    <div class="container">
+        <div class="logo">
+          
+            <img src="/images/logo.jpg" width = 120 height = 120 alt="logo">
+        </div>
+        <div class="logo">
+            <h1>The Makeup Store</h1>
+         
+        </div>
+        
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/products">Products</a></li>
+                <li><a href="/about">About Us</a></li>
+                <li><a href="/faq">FAQ</a></li>
+                <li><a href="/contact">Contact</a></li>
+                <% if (isAuthenticated) { %>
+                    <li><a href="/logout">Logout</a></li>
+                <% } else { %>
+                    <li><a href="/login">Login</a></li>
+                <% } %>
+            </ul>
+        </nav>
+    </div>
+</header>
